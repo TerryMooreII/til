@@ -1,4 +1,4 @@
-#The Begining
+#The Beginning
 
 Today I learned that people keep a collection of the new things that they learn on Github.  I decieded to take a stab at this.
 
