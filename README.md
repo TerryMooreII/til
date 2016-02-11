@@ -4,4 +4,4 @@ This is intended to be a central place where I can keep a collection of new thin
 
 Life
 --------
-* [The Beginning](life/the-beginning.md)
+* [The Beginning](life/the-begining.md)
