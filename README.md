@@ -8,6 +8,10 @@ Javascript
 
 * [LoDash GroupBy](javascript/lodash-groupby.md)
 
+Typescript
+------------
+* [Annotations](typescript/annotations.md)
+
 Git
 --------
 * [Case Sensitive Config](git/case-sensitive-config.md)
