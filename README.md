@@ -3,9 +3,13 @@ This is intended to be a central place where I can keep a collection of new thin
 
 
 
+Angular 2
+------------
+* [Access the element in a directive](angular2/access-element-in-directive.md)
+* [@HostListener annotation in directives](angular2/hostlistener.md)
+
 Javascript
 ----------
-
 * [LoDash GroupBy](javascript/lodash-groupby.md)
 
 Typescript
