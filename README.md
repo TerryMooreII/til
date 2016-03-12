@@ -11,6 +11,7 @@ Angular 2
 Javascript
 ----------
 * [LoDash GroupBy](javascript/lodash-groupby.md)
+* [To Int](javascript/to-int.md)
 
 Typescript
 ------------
