@@ -4,8 +4,3 @@ Git has a configuration setting that tells it whether to be case sensitive or in
 ```
 git config core.ignorecase false
 ```
-
-
-[] Adding a todo list
-
-[ ] Does this do it
