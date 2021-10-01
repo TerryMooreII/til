@@ -6,5 +6,6 @@ git config core.ignorecase false
 ```
 
 
-[ ] Adding a todo list
+[] Adding a todo list
+
 [ ] Does this do it
