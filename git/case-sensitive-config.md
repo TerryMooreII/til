@@ -4,3 +4,6 @@ Git has a configuration setting that tells it whether to be case sensitive or in
 ```
 git config core.ignorecase false
 ```
+
+
+Test
