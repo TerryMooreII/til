@@ -6,4 +6,3 @@ git config core.ignorecase false
 ```
 
 
-Test
